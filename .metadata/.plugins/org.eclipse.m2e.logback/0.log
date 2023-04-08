@@ -1,0 +1,11 @@
+2023-04-08 11:29:00,656 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-08 11:31:19,579 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rafael:AulaAnotations:0.0.1-SNAPSHOT @ C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotations\pom.xml.
+2023-04-08 11:31:20,952 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AulaAnotations/src/main/java
+2023-04-08 11:31:20,953 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AulaAnotations/src/main/resources
+2023-04-08 11:31:20,965 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AulaAnotations/src/main/resources
+2023-04-08 11:31:20,977 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AulaAnotations/src/test/java
+2023-04-08 11:31:22,600 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-04-08 11:31:22,608 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-08 11:31:22,840 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rafael:AulaAnotations:0.0.1-SNAPSHOT @ C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotations\pom.xml.
+2023-04-08 11:31:23,166 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AulaAnotations/src/main/java
+2023-04-08 11:31:23,166 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AulaAnotations/src/main/resources
