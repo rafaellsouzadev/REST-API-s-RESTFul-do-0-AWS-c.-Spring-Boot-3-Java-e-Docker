@@ -1,0 +1,5 @@
+package br.com.rafael.controller;
+
+public class GreetingController {
+
+}
