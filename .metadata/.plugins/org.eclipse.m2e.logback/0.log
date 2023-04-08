@@ -29,3 +29,25 @@
 2023-04-08 11:47:32,613 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AulaAnotations/src/main/resources
 2023-04-08 11:47:32,613 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AulaAnotations/src/main/resources
 2023-04-08 11:47:32,613 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AulaAnotations/src/test/java
+2023-04-08 11:47:32,838 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-04-08 12:09:38,896 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rafael:AulaAnotations:0.0.1-SNAPSHOT @ C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotationsCal\pom.xml.
+2023-04-08 12:09:39,405 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-08 12:09:39,456 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-08 12:09:39,460 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotationsCal\src\test\resources
+2023-04-08 12:09:40,651 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-08 12:09:40,654 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-08 12:09:40,656 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotationsCal\src\test\resources
+2023-04-08 12:09:52,895 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-08 12:09:52,902 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-08 12:09:52,906 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotationsCal\src\test\resources
+2023-04-08 12:10:16,014 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-08 12:10:16,023 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-08 12:10:16,026 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotationsCal\src\test\resources
+2023-04-08 12:17:02,096 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-08 12:17:02,104 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-08 12:17:02,108 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotationsCal\src\test\resources
+2023-04-08 12:19:32,851 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-08 12:19:32,860 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-08 12:19:32,863 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotationsCal\src\test\resources
+2023-04-08 12:34:04,754 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-08 12:34:04,765 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
