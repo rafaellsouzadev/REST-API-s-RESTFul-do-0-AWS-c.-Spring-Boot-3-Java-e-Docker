@@ -140,3 +140,96 @@
 2023-04-11 01:16:57,123 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-11 01:16:57,128 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaTratamentoExcecao\src\test\resources
 2023-04-11 17:24:58,798 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-12 09:22:14,273 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-12 09:24:14,505 [Worker-1: Launching AulaTratamentoExcecao - AulaAnotationsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:24:14,524 [Worker-1: Launching AulaTratamentoExcecao - AulaAnotationsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:24:14,529 [Worker-1: Launching AulaTratamentoExcecao - AulaAnotationsApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaTratamentoExcecao\src\test\resources
+2023-04-12 09:24:16,211 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:24:16,313 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:24:16,319 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotations\src\test\resources
+2023-04-12 09:24:17,056 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:24:17,135 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:24:17,138 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaAnotationsCal\src\test\resources
+2023-04-12 09:28:34,381 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:28:34,393 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:28:34,399 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\AulaTratamentoExcecao\src\test\resources
+2023-04-12 09:40:00,058 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.rafael:AulaAnotations:0.0.1-SNAPSHOT @ C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\pom.xml.
+2023-04-12 09:40:00,712 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:40:00,736 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:40:00,740 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:40:01,923 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:40:01,925 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:40:01,928 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:40:26,527 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:40:26,533 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:40:26,536 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:40:53,224 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:40:53,231 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:40:53,236 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:41:32,714 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:41:32,720 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:41:32,725 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:41:53,387 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:41:53,393 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:41:53,396 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:42:00,754 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:42:00,763 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:42:00,766 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:46:41,078 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:46:41,087 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:46:41,093 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:51:49,687 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:51:49,696 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:51:49,702 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:56:01,710 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:56:01,724 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:56:01,728 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:56:04,169 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:56:04,178 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:56:04,181 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 09:59:15,914 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 09:59:15,924 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 09:59:15,928 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:25:50,171 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:25:50,180 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:25:50,184 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:28:17,288 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:28:17,295 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:28:17,299 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:32:21,119 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:32:21,128 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:32:21,132 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:33:32,625 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:33:32,633 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:33:32,638 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:35:58,375 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:35:58,383 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:35:58,387 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:36:19,375 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:36:19,384 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:36:19,388 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:39:18,172 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:39:18,177 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:39:18,181 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:42:19,417 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:42:19,427 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:42:19,430 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:43:42,922 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:43:42,930 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:43:42,934 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:44:21,270 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:44:21,276 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:44:21,280 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:57:05,470 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:57:05,479 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:57:05,482 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:57:27,051 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:57:27,060 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:57:27,063 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 10:59:31,609 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 10:59:31,619 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 10:59:31,622 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 11:02:02,304 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 11:02:02,310 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 11:02:02,313 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\REST API's RESTFul do 0 à AWS c. Spring Boot 3 Java e Docker\VerboGetPostPutDelete\src\test\resources
+2023-04-12 11:04:49,363 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
